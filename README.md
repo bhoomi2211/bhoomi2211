@@ -2,7 +2,7 @@
 
 # Hi there! I'm Bhoomi Agarwal 👋
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+💻;MERN+Stack+Enthusiast+🚀;Building+Scalable+Web+Apps+🌐;Turning+Coffee+into+Code+☕" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+💻;MERN+Stack+Enthusiast+🚀;Building+Scalable+Web+Apps+🌐;Turning+Coffee+into+Code+☕" alt="Typing SVG" />
 
 ---
 
@@ -50,20 +50,20 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhoomi2211&show_icons=true&theme=tokyonight&count_private=true" alt="Bhoomi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhoomi2211&show_icons=true&theme=tokyonight&count_private=true&title_color=00FFFF" alt="Bhoomi's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi2211&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi2211&layout=compact&theme=tokyonight&title_color=00FFFF" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/bhoomi-agarwal-a0793527a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bhoomi Agarwal" height="30" width="40" /></a>
-<a href="https://x.com/AgarwalBho86452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-1.svg" alt="Bhoomi Agarwal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bhoomi_agarwal_2211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram|2.svg" alt="bhoomi_agarwal_2211" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhoomi-agarwal-a0793527a/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Bhoomi Agarwal" height="25" /></a>
+<a href="https://x.com/AgarwalBho86452" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Bhoomi Agarwal" height="25" /></a>
+<a href="https://www.instagram.com/bhoomi_agarwal_2211" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="bhoomi_agarwal_2211" height="25" /></a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhoomi2211&color=yellow&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bhoomi2211&color=00FFFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
