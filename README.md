@@ -12,8 +12,8 @@
 
 ### 👩‍💻 About Me
 - 📍 Based in **Lucknow, India**
-- 🎓 Passionate about building robust web applications using **MERN & Django**.
-- 🛠️ Currently focusing on mastering advanced backend patterns and SEO optimization.
+- 🎓 Passionate about building web applications using **MERN & Django**.
+- 🛠️ Currently focusing on mastering advanced backend patterns.
 - 👯 Always open to collaborating on **Open Source** projects.
 
 ---
@@ -59,11 +59,12 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/bhoomi-agarwal-a0793527a/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Bhoomi Agarwal" height="25" /></a>
-<a href="https://x.com/AgarwalBho86452" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Bhoomi Agarwal" height="25" /></a>
-<a href="https://www.instagram.com/bhoomi_agarwal_2211" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="bhoomi_agarwal_2211" height="25" /></a>
+<a href="https://www.linkedin.com/in/bhoomi-agarwal-a0793527a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
+<a href="https://x.com/AgarwalBho86452" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" /></a>
+<a href="https://www.instagram.com/bhoomi_agarwal_2211" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" /></a>
 </p>
 
 <div align="center">
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=bhoomi2211&color=00FFFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
